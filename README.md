@@ -6,7 +6,7 @@ This project is a custom shell developed as part of my Operating Systems class. 
 
 1. Command Execution
 The shell allows you to run typical shell commands like:
-bash
+```bash
 ls
 cat
 echo "Hello World"
