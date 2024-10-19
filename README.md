@@ -75,20 +75,3 @@ cat input.txt | grep "keyword" > output.txt
 sleep 10 &
 ```
 
-## License
-
-[Specify the license here, if applicable, or say the project is for educational purposes.]
-
----
-
-This shell is a simplified version of a Unix-like shell designed for educational purposes as part of an Operating Systems class. It demonstrates core concepts such as process management, piping, and I/O redirection.
-```
-
-### Breakdown of What to Include:
-- **Introduction**: Briefly explain what the project is.
-- **Features**: List the key functionalities of your shell.
-- **How to Compile and Run**: Step-by-step instructions for someone who wants to run the shell.
-- **Example Commands**: Provide examples of how to use the shell (pipes, redirection, etc.).
-- **License**: Specify a license or mention that the project was developed for educational purposes.
-
-Feel free to adjust the details as needed. This `README.md` will make your project easy to understand for anyone viewing it on GitHub! Let me know if you'd like to customize it further.
